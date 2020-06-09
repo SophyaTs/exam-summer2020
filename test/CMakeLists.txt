@@ -5,6 +5,7 @@ set(SRC_LIST
     sort_test.cpp
     splay_test.cpp
     sl_test.cpp
+	dl_test.cpp
     radix_test.cpp
     dlsirc_test.cpp
     slsirc_test.cpp

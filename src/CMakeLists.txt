@@ -16,6 +16,7 @@ set(SRC_LIST
         lists/DLsircular.hpp
         lists/DLsircular.tpp
 		lists/SL.hpp
+		lists/DL.hpp
 
 		lists/SLsircular.tpp
 		lists/SLsircular.hpp
